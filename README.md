@@ -4,3 +4,6 @@
 ## 사용 언어
 html, css, jquery
 (swiper 라이브러리 사용)
+
+## 페이지 주소
+https://kimjoohye.github.io/portfolio_first/
