@@ -36,7 +36,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: url("/images/main.jpg");  /* fallback for old browsers */     
+    background: url("./images/main.jpg");  /* fallback for old browsers */     
     background-size: cover; /* 이미지로 꽉 채우기. 단 이미지 잘릴 가능성 있음 */
     background-repeat: no-repeat; /* 바둑판 효과 없음 */
 }
